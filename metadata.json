@@ -1,0 +1,6 @@
+{
+  "name": "SciJump Labs",
+  "description": "Interactive science learning adventures for kids",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
